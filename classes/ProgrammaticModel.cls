@@ -97,7 +97,7 @@ public with sharing class ProgrammaticModel {
 		System.debug(y);
 		
 	}
-
+//mansi...jkhqjkdghwjkh bymdcug
 	public void staticDemo()
 	{
 		c++;
